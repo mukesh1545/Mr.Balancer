@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="TypeItems">
+<!--        <item>select</item>-->
+        <item>Credited</item>
+        <item>Debited</item>
+        <!-- Add more items as needed -->
+    </array>
+    <array name="TagItems">
+<!--        <item>select</item>-->
+        <item>Food</item>
+        <item>Medical</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Salary</item>
+        <item>Others</item>
+        <!-- Add more items as needed -->
+    </array>
+    <array name="Tag1Items">
+        <!--        <item>select</item>-->
+        <item>Salary</item>
+        <item>Others</item>
+        <!-- Add more items as needed -->
+    </array>
+</resources>
